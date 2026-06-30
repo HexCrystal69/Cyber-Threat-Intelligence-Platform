@@ -103,7 +103,4 @@ cd frontend
 npm run test
 ```
 
----
 
-## License
-MIT
