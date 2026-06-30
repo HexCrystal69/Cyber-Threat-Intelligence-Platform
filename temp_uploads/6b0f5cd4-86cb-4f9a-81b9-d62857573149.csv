@@ -1,0 +1,2 @@
+indicator_value,indicator_type,confidence_score,severity
+1.1.1.1,IP,85,HIGH
